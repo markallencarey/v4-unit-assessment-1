@@ -1,0 +1,157 @@
+header {
+  background-color: #93E9BE;
+  height: 75px;
+  position: relative;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: bold;
+  margin-left: 20px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+#rectangles-shapes, #snowman, #fish-tank {
+  border: 1px dotted black;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#purple-rectangle {
+  background-color: indigo;
+  height: 75px;
+  width: 200px;
+  border: 2px solid red;
+  margin: 20px 10px 20px 20px;
+  display: inline-block;
+}
+
+#blue-box {
+  background-color: blue;
+  height: 75px;
+  width: 75px;
+  border: 1px solid black;
+  margin: 20px 10px;
+  box-shadow: 5px 5px 5px black;
+  display: inline-block;
+}
+
+#pink-square {
+  background-color: palevioletred;
+  height: 150px;
+  width: 150px;
+  border: 1px solid black;
+  margin: 20px 10px;
+  display: inline-block;
+}
+
+#snowman-top {
+  height: 75px;
+  width: 75px;
+  border: 1px solid black;
+  border-radius: 50%;
+  margin: 10px 0px 0px 35px;
+}
+
+.coal {
+  height: 15px;
+}
+
+#coal-eyes {
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+#carrot {
+  height: 20px;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+#snowman-middle {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  border-radius: 50%;
+  margin: 0px 0px 0px 22.5px;
+}
+
+#top-button {
+  margin-left: 42px;
+  margin-top: 10px;
+}
+
+#middle-button {
+  margin-left: 42px;
+  margin-top: 12.5px;
+}
+
+#bottom-button {
+  margin-left: 42px;
+  margin-top: 15px;
+}
+
+#snowman-bottom {
+  height: 125px;
+  width: 125px;
+  border: 1px solid black;
+  border-radius: 50%;
+  margin: 0px 0px 10px 10px;
+}
+
+#yellow-box {
+  background-color: rgb(253, 253, 192);
+  height: 150px;
+  width: 150px;
+  border: 1px solid black;
+  margin: 10px 10px;
+  display: inline-block;
+}
+
+#green-circle {
+  background-color: darkgreen;
+  height: 125px;
+  width: 125px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+#red-box {
+  background-color: rgb(150, 32, 32);
+  height: 75px;
+  width: 75px;
+  margin-left: 22px;
+  margin-top: 22px;
+}
+
+#blue-circle {
+  background-color: blue;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+#fish-tank-text {
+  font-size: 12px;
+  color: white;
+  font-weight: 100;
+  text-align: center;
+}
+
+#goldfish {
+  display: block;
+  width: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 12px;
+}
